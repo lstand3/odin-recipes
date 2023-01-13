@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to create a basic recipe website. This website will not be pretty, but it will demonstrate how much I have learned with The Odin Project. Hopefully I will be able to code some of the basics, like adding links and images, using the correct image format, creating an ordered list, using relative and absolute links correctly, and creating some text that looks appropriate. I will also hopefully create good commit messages and commit early and often. 
